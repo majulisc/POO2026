@@ -3,6 +3,7 @@ private String nome;
 private int idade;
 private int matricula;
 private Sala sala;
+private boolean [] presencaAusencia;
 
 
 /*metodo -->iniciarAula == Verifica se a sala está desocupada (isOcupada() == false)
@@ -19,10 +20,16 @@ public void iniciarAula (){
     }
 }
 
+public void chamada (boolean [] presencaAusencia){
+   for (int i=0;i<10;i++) {
 
+   }
+       
+    
 
+    
 
-
+}
 
 public String getNome() {
     return nome;
@@ -48,6 +55,7 @@ public Sala getSala() {
 public void setSala(Sala sala) {
     this.sala = sala;
 }
+
 
 
 
