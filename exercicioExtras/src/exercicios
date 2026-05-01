@@ -1,0 +1,19 @@
+Nível 1 — Base
+
+OK Crie uma classe Carro com marca (String) e velocidade (int)OK. Faça getters, settersOK e um método acelerar(int valor) que soma ao atributo velocidade OK.
+Crie uma classe ContaBancaria com saldo (double) e métodos depositar(double valor) e sacar(double valor). O saque só ocorre se houver saldo.
+
+Nível 2 — Vetores
+
+Crie um vetor de 5 inteiros, peça ao usuário para preencher e imprima a soma.
+Crie um vetor de 5 objetos Carro (do exercício 1), preencha e imprima a marca de cada um percorrendo com for.
+
+Nível 3 — Classes se comunicando
+
+Crie uma classe Garagem com um vetor de 3 objetos Carro. Faça um método adicionarCarro(int posicao, Carro carro) e outro listarCarros() que imprime todos.
+Adicione à Garagem um método acelerarTodos(int valor) que chama acelerar() em cada carro do vetor.
+
+Nível 4 — Booleans e estado
+
+Adicione à Carro um atributo ligado (boolean) e métodos ligar() e desligar(). O carro só acelera se estiver ligado.
+Na Garagem, faça um método ligarTodos() que liga todos os carros do vetor.
