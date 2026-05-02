@@ -1,7 +1,7 @@
 Nível 1 — Base
 
 OK Crie uma classe Carro com marca (String) e velocidade (int)OK. Faça getters, settersOK e um método acelerar(int valor) que soma ao atributo velocidade OK.
-Crie uma classe ContaBancaria com saldo (double) e métodos depositar(double valor) e sacar(double valor). O saque só ocorre se houver saldo.
+OK Crie uma classe ContaBancaria com saldo (double) e métodos depositar(double valor) e sacar(double valor). O saque só ocorre se houver saldo.
 
 Nível 2 — Vetores
 
